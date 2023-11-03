@@ -37,7 +37,7 @@ format: revealjs
 
 ## Minnesota Emergency SNAP
 
-## US GSA Work Patterns
+## US GSA Work Patternstouch .nojekyll
 
 ## other cool stuff
 
