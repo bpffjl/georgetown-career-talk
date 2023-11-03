@@ -21,7 +21,7 @@ format: revealjs
 
 -   Senior Research and Training Manager at the Adbul Latif Jameel Poverty Action Lab at MIT (2010-2016)
 
--   Master from UC San Diego in International Development in 2010
+-   Masters from UC San Diego in International Development in 2010
 
 -   BS in Mathematics from UNC Chapel Hill in 2002
 
@@ -37,7 +37,7 @@ format: revealjs
 
 ## Minnesota Emergency SNAP
 
-## US GSA Work Patternstouch .nojekyll
+## US GSA Work Patterns
 
 ## other cool stuff
 
