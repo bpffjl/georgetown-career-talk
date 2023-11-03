@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "georgetown-career-talk.html#who-is-this-person",
+    "href": "georgetown-career-talk.html#who-is-this-person",
+    "title": "Data Science in Action",
+    "section": "Who is this person?",
+    "text": "Who is this person?\n\nBen Jaques-Leslie\n43 year old white cis male\nReside in Minneapolis, Minnesota with my wife and three sons\nProgram Evaluator at the US Office of Personnel Management"
+  },
+  {
+    "objectID": "georgetown-career-talk.html#what-was-i-doing-before-monday",
+    "href": "georgetown-career-talk.html#what-was-i-doing-before-monday",
+    "title": "Data Science in Action",
+    "section": "What was I doing before Monday?",
+    "text": "What was I doing before Monday?\n\nResearch Scientist at the Minnesota Department of Human Services (2016 - 2023)\nData Scientist with the Office of Evaluation Science at the US General Services Administrator (2022-2023)\nSenior Research and Training Manager at the Adbul Latif Jameel Poverty Action Lab at MIT (2010-2016)\nMaster from UC San Diego in International Development in 2010\nBS in Mathematics from UNC Chapel Hill in 2002"
+  },
+  {
+    "objectID": "georgetown-career-talk.html#some-cool-data-science-projects",
+    "href": "georgetown-career-talk.html#some-cool-data-science-projects",
+    "title": "Data Science in Action",
+    "section": "Some cool data science projects",
+    "text": "Some cool data science projects\n\nMinnesota Self-Support Index\nMinnesota Emergency SNAP\nUS General Services Administration Work Patterns"
+  },
+  {
+    "objectID": "georgetown-career-talk.html#minnesota-self-support-index",
+    "href": "georgetown-career-talk.html#minnesota-self-support-index",
+    "title": "Data Science in Action",
+    "section": "Minnesota Self-Support Index",
+    "text": "Minnesota Self-Support Index"
+  },
+  {
+    "objectID": "georgetown-career-talk.html#minnesota-emergency-snap",
+    "href": "georgetown-career-talk.html#minnesota-emergency-snap",
+    "title": "Data Science in Action",
+    "section": "Minnesota Emergency SNAP",
+    "text": "Minnesota Emergency SNAP"
+  },
+  {
+    "objectID": "georgetown-career-talk.html#us-gsa-work-patterns",
+    "href": "georgetown-career-talk.html#us-gsa-work-patterns",
+    "title": "Data Science in Action",
+    "section": "US GSA Work Patterns",
+    "text": "US GSA Work Patterns"
+  },
+  {
+    "objectID": "georgetown-career-talk.html#other-cool-stuff",
+    "href": "georgetown-career-talk.html#other-cool-stuff",
+    "title": "Data Science in Action",
+    "section": "other cool stuff",
+    "text": "other cool stuff\nTANF data collaborative\n2-gen\nJoe Ritter\nideas42"
+  },
+  {
+    "objectID": "georgetown-career-talk.html#data-science-in-governments",
+    "href": "georgetown-career-talk.html#data-science-in-governments",
+    "title": "Data Science in Action",
+    "section": "Data science in governments",
+    "text": "Data science in governments"
+  },
+  {
+    "objectID": "georgetown-career-talk.html#data-science-in-partners",
+    "href": "georgetown-career-talk.html#data-science-in-partners",
+    "title": "Data Science in Action",
+    "section": "Data science in partners",
+    "text": "Data science in partners"
+  },
+  {
+    "objectID": "georgetown-career-talk.html#bullets",
+    "href": "georgetown-career-talk.html#bullets",
+    "title": "Data Science in Action",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "georgetown-career-talk.html#code",
+    "href": "georgetown-career-talk.html#code",
+    "title": "Data Science in Action",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+  }
+]

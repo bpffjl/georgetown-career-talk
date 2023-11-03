@@ -1,0 +1,69 @@
+---
+title: "Data Science in Action"
+format: revealjs
+---
+
+## Who is this person?
+
+-   Ben Jaques-Leslie
+
+-   43 year old white cis male
+
+-   Reside in Minneapolis, Minnesota with my wife and three sons
+
+-   Program Evaluator at the US Office of Personnel Management
+
+## What was I doing before Monday?
+
+-   Research Scientist at the Minnesota Department of Human Services (2016 - 2023)
+
+-   Data Scientist with the Office of Evaluation Science at the US General Services Administrator (2022-2023)
+
+-   Senior Research and Training Manager at the Adbul Latif Jameel Poverty Action Lab at MIT (2010-2016)
+
+-   Master from UC San Diego in International Development in 2010
+
+-   BS in Mathematics from UNC Chapel Hill in 2002
+
+## Some cool data science projects
+
+1.  Minnesota Self-Support Index
+
+2.  Minnesota Emergency SNAP
+
+3.  US General Services Administration Work Patterns
+
+## Minnesota Self-Support Index
+
+## Minnesota Emergency SNAP
+
+## US GSA Work Patterns
+
+## other cool stuff
+
+TANF data collaborative
+
+2-gen
+
+Joe Ritter
+
+ideas42
+
+## Data science in governments
+
+## Data science in partners
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```

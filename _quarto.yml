@@ -1,0 +1,7 @@
+project:
+  title: "georgetown-career-talk"
+  type: website
+  output-dir: docs
+
+editor: visual
+
