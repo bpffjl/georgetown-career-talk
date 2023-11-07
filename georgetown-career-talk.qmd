@@ -31,7 +31,21 @@ format: revealjs
 
 ## Minnesota Self-Support Index
 
-## Minnesota Emergency SNAP
+-   State performance measure of family case assistance
+
+-   Score compared to range of expected performance
+
+-   Clustered bootstrap creating agency predictions
+
+## Minnesota Emergency SNAP[^1]
+
+[^1]: Presentation at NAWRS 2023 in Salt Lake City: [Minnesota Emergency SNAP Data Story](https://bpffjl.github.io/esnap-nawrs/scripts/slides.html#/title-slide)
+
+-   Provided participants with maximum benefit regardless of income
+
+-   Calculated additional benefits
+
+-   Prepared files to issue
 
 ## US GSA Work Patterns
 
