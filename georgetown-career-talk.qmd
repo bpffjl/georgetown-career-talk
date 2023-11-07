@@ -21,10 +21,6 @@ format: revealjs
 
 -   Senior Research and Training Manager at the Adbul Latif Jameel Poverty Action Lab at MIT (2010-2016)
 
--   Masters from UC San Diego in International Development in 2010
-
--   BS in Mathematics from UNC Chapel Hill in 2002
-
 ## Some cool data science projects
 
 1.  Minnesota Self-Support Index
@@ -52,6 +48,12 @@ ideas42
 ## Data science in governments
 
 ## Data science in partners
+
+## Where did I go to school?
+
+-   Masters from UC San Diego in International Development in 2010
+
+-   BS in Mathematics from UNC Chapel Hill in 2002
 
 ## Bullets
 
