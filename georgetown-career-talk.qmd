@@ -37,6 +37,10 @@ format: revealjs
 
 -   Clustered bootstrap creating agency predictions
 
+-   Trained local agencies
+
+-   Tested the measure and incorporated new data
+
 ## Minnesota Emergency SNAP[^1]
 
 [^1]: Presentation at NAWRS 2023 in Salt Lake City: [Minnesota Emergency SNAP Data Story](https://bpffjl.github.io/esnap-nawrs/scripts/slides.html#/title-slide)
@@ -45,23 +49,45 @@ format: revealjs
 
 -   Calculated additional benefits
 
--   Prepared files to issue
+-   Prepared files to issue benefits
+
+-   Reports of the amount issued
+
+-   Updated based on changing policy and IT solutions
 
 ## US GSA Work Patterns
 
-## other cool stuff
+-   Categorized employee work patterns based on remote or office
 
-TANF data collaborative
+-   Daily data where employees declare where they are working from
 
-2-gen
+-   K-means cluster to group employees
 
-Joe Ritter
+-   Preparing memo for publication
 
-ideas42
+## Interesting collaborations
+
+-   [TANF Data Collaborative](https://www.acf.hhs.gov/opre/report/tanf-data-collaborative-pilot-profiles-collection-data-analytics-projects-state-county)
+
+-   [Minnesota 2-Generation Network](https://mn.gov/dhs/2-generation/about/)
+
+-   [Minneapolis Federal Reserve Bank Minimum Wage Study](https://www.minneapolisfed.org/research/working-papers/minimum-wages-and-labor-markets-in-the-twin-cities)
+
+-   University of Minnesota Applied Economics
+
+-   ideas42
 
 ## Data science in governments
 
+Challenges
+
+Oppotunities
+
 ## Data science in partners
+
+Challenges
+
+Opportunities
 
 ## Where did I go to school?
 
