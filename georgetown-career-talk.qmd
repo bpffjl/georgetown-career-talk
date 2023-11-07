@@ -1,6 +1,8 @@
 ---
 title: "Data Science in Action"
-format: revealjs
+format: 
+  revealjs:
+    incremental: true
 ---
 
 ## Who is this person?
@@ -9,17 +11,17 @@ format: revealjs
 
 -   43 year old white cis male
 
--   Reside in Minneapolis, Minnesota with my wife and three sons
+-   Reside in Minneapolis with my wife and three sons
 
 -   Program Evaluator at the US Office of Personnel Management
 
 ## What was I doing before Monday?
 
--   Research Scientist at the Minnesota Department of Human Services (2016 - 2023)
+-   **Research Scientist** at the Minnesota Department of Human Services (2016 - 2023)
 
--   Data Scientist with the Office of Evaluation Science at the US General Services Administrator (2022-2023)
+-   **Data Scientist** with the Office of Evaluation Science at the US General Services Administration (2022-2023)
 
--   Senior Research and Training Manager at the Adbul Latif Jameel Poverty Action Lab at MIT (2010-2016)
+-   **Senior Research and Training Manager** at the Adbul Latif Jameel Poverty Action Lab at MIT (2010-2016)
 
 ## Some cool data science projects
 
@@ -79,17 +81,73 @@ format: revealjs
 
 ## Data science in governments
 
+::: columns
+::: {.column width="50%"}
 Challenges
 
--   Expertise
+-   Technical expertise
 
-Oppotunities
+-   Time
+
+-   Leadership engagement
+
+-   Statutes
+:::
+
+::: {.column width="50%"}
+Opportunities
+
+-   Data access (depends)
+
+-   Impact
+
+-   Narrow focus
+:::
+:::
 
 ## Data science in partners
 
+::: columns
+::: {.column width="50%"}
 Challenges
 
+-   Data access
+
+-   Funding
+
+-   Government partners
+:::
+
+::: {.column width="50%"}
 Opportunities
+
+-   Intellectual engagement
+
+-   Breadth
+
+-   Network
+:::
+:::
+
+## Questions to ask
+
+1.  What is the supervisor and team like?
+2.  How available is the data?
+3.  How good is the IT infrastructure?
+4.  Do I care about what we are doing?
+5.  What methods am I using?
+
+## Thank you!
+
+Ben Jaques-Leslie
+
+[benjaminjaques\@gmail.com](mailto:benjaminjaques@gmail.com)
+
+<https://bpffjl.github.io/bpffjl-website/>
+
+<https://www.linkedin.com/in/benjaques/>
+
+## Appendix
 
 ## Where did I go to school?
 
@@ -97,17 +155,4 @@ Opportunities
 
 -   BS in Mathematics from UNC Chapel Hill in 2002
 
-## Bullets
-
-When you click the **Render** button a document will be generated that includes:
-
--   Content authored with markdown
--   Output from executable code
-
-## Code
-
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
+## 

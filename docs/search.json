@@ -4,14 +4,14 @@
     "href": "georgetown-career-talk.html#who-is-this-person",
     "title": "Data Science in Action",
     "section": "Who is this person?",
-    "text": "Who is this person?\n\nBen Jaques-Leslie\n43 year old white cis male\nReside in Minneapolis, Minnesota with my wife and three sons\nProgram Evaluator at the US Office of Personnel Management"
+    "text": "Who is this person?\n\nBen Jaques-Leslie\n43 year old white cis male\nReside in Minneapolis with my wife and three sons\nProgram Evaluator at the US Office of Personnel Management"
   },
   {
     "objectID": "georgetown-career-talk.html#what-was-i-doing-before-monday",
     "href": "georgetown-career-talk.html#what-was-i-doing-before-monday",
     "title": "Data Science in Action",
     "section": "What was I doing before Monday?",
-    "text": "What was I doing before Monday?\n\nResearch Scientist at the Minnesota Department of Human Services (2016 - 2023)\nData Scientist with the Office of Evaluation Science at the US General Services Administrator (2022-2023)\nSenior Research and Training Manager at the Adbul Latif Jameel Poverty Action Lab at MIT (2010-2016)"
+    "text": "What was I doing before Monday?\n\nResearch Scientist at the Minnesota Department of Human Services (2016 - 2023)\nData Scientist with the Office of Evaluation Science at the US General Services Administration (2022-2023)\nSenior Research and Training Manager at the Adbul Latif Jameel Poverty Action Lab at MIT (2010-2016)"
   },
   {
     "objectID": "georgetown-career-talk.html#some-cool-data-science-projects",
@@ -53,14 +53,35 @@
     "href": "georgetown-career-talk.html#data-science-in-governments",
     "title": "Data Science in Action",
     "section": "Data science in governments",
-    "text": "Data science in governments\nChallenges\n\nExpertise\n\nOppotunities"
+    "text": "Data science in governments\n\n\nChallenges\n\nTechnical expertise\nTime\nLeadership engagement\nStatutes\n\n\nOpportunities\n\nData access (depends)\nImpact\nNarrow focus"
   },
   {
     "objectID": "georgetown-career-talk.html#data-science-in-partners",
     "href": "georgetown-career-talk.html#data-science-in-partners",
     "title": "Data Science in Action",
     "section": "Data science in partners",
-    "text": "Data science in partners\nChallenges\nOpportunities"
+    "text": "Data science in partners\n\n\nChallenges\n\nData access\nFunding\nGovernment partners\n\n\nOpportunities\n\nIntellectual engagement\nBreadth\nNetwork"
+  },
+  {
+    "objectID": "georgetown-career-talk.html#questions-to-ask",
+    "href": "georgetown-career-talk.html#questions-to-ask",
+    "title": "Data Science in Action",
+    "section": "Questions to ask",
+    "text": "Questions to ask\n\nWhat is the supervisor and team like?\nHow available is the data?\nHow good is the IT infrastructure?\nDo I care about what we are doing?\nWhat methods am I using?"
+  },
+  {
+    "objectID": "georgetown-career-talk.html#thank-you",
+    "href": "georgetown-career-talk.html#thank-you",
+    "title": "Data Science in Action",
+    "section": "Thank you!",
+    "text": "Thank you!\nBen Jaques-Leslie\nbenjaminjaques@gmail.com\nhttps://bpffjl.github.io/bpffjl-website/\nhttps://www.linkedin.com/in/benjaques/"
+  },
+  {
+    "objectID": "georgetown-career-talk.html#appendix",
+    "href": "georgetown-career-talk.html#appendix",
+    "title": "Data Science in Action",
+    "section": "Appendix",
+    "text": "Appendix"
   },
   {
     "objectID": "georgetown-career-talk.html#where-did-i-go-to-school",
@@ -68,19 +89,5 @@
     "title": "Data Science in Action",
     "section": "Where did I go to school?",
     "text": "Where did I go to school?\n\nMasters from UC San Diego in International Development in 2010\nBS in Mathematics from UNC Chapel Hill in 2002"
-  },
-  {
-    "objectID": "georgetown-career-talk.html#bullets",
-    "href": "georgetown-career-talk.html#bullets",
-    "title": "Data Science in Action",
-    "section": "Bullets",
-    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
-  },
-  {
-    "objectID": "georgetown-career-talk.html#code",
-    "href": "georgetown-career-talk.html#code",
-    "title": "Data Science in Action",
-    "section": "Code",
-    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
   }
 ]
